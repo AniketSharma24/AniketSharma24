@@ -8,7 +8,7 @@ I am a tech professional with 3+ years of experience. Engaged with US-based clie
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sharmaaniket2497@gmail.com](mailto:sharmaaniket2497@gmail.com)
-* 🧠  I'm learning React Js
+* 🧠  I'm learning React Js and also polishing my skills on Angular
 * 🤝  I'm open to collaborating on the UI projects based in Angular. As i have more amount of exposure in Angular
 
 ### Skills
