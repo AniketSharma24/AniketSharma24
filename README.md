@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋🏻 My name is Aniket
+### Hi 👋🏻 My name is Aniket
 I'm a Frontend Engineer with over 4 years of experience that specializes in creating wonderful online experiences and producing code that is both efficient and optimized.
 
 * I have a solid experience in front-end development with Angular
