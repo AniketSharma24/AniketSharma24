@@ -1,32 +1,25 @@
-Hi 👋 My name is Aniket Sharma
-==============================
+### Hi there 👋, Hi 👋🏻 My name is Aniket
+I'm a Frontend Engineer with over 4 years of experience that specializes in creating wonderful online experiences and producing code that is both efficient and optimized.
 
-Web Developer (Angular)
------------------------
+* I have a solid experience in front-end development with Angular
+* I am proficient at building Single Page apps using open-source frameworks and libraries such as Angular and React
+* Being passionate about coding, open source, and the online platform, I constantly look for new ideas to address issues in original ways, especially if they involve technology.
+* I'm a quick learner with good interpersonal, communication, analytical, and problem-solving abilities
+* It is my goal to continue broadening my knowledge base and staying informed about the latest advancements in my field
+* I'm dedicated to producing top-notch work and getting great outcomes
+* I constantly search for fresh challenges and chances to expand my knowledge and skill set
 
-I am a tech professional with 3+ years of experience. Engaged with US-based clients from the point of requirements gathering to the point of deployment. Contributed to many enterprises/small-scale applications. Provided Support to consumers, debugged, and solved issues.
+Skills: Angular | ReactJs | JavaScript | TypeScript | HTML5 | CSS |
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [sharmaaniket2497@gmail.com](mailto:sharmaaniket2497@gmail.com)
-* 🧠  I'm learning React Js and also polishing my skills on Angular
-* 🤝  I'm open to collaborating on the UI projects based in Angular. As i have more amount of exposure in Angular
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://angular.io/assets/images/logos/angular/angular.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+- 🌱 I’m currently learning ReactJs v18 
+- 👯 I’m looking to collaborate on Frontend applications that are extensively using Angular / JS / HTML / CSS 
+- 📫 How to reach me: sharmaaniket2411@gmail.com 
 
 
-### Socials
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AniketSharma24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aniket-sharma-as//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/15660322/aniket-sharma)  
 
-<p align="left"> <a href="https://www.github.com/AniketSharma24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aniket-sharma-as" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/aniket-sharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketSharma24)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AniketSharma24&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/AniketSharma24)  
