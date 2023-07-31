@@ -1,18 +1,18 @@
 ### Hi 👋🏻 My name is Aniket
 I'm a Frontend Engineer with over 4 years of experience that specializes in creating wonderful online experiences and producing code that is both efficient and optimized.
 
-* I have a solid experience in front-end development with Angular
-* I am proficient at building Single Page apps using open-source frameworks and libraries such as Angular and React
+* I have a solid experience in front-end development with Angular and ReactJS
+* I am proficient at building Single Page apps using open-source frameworks and libraries such as Angular and ReactJS
 * Being passionate about coding, open source, and the online platform, I constantly look for new ideas to address issues in original ways, especially if they involve technology.
 * I'm a quick learner with good interpersonal, communication, analytical, and problem-solving abilities
 * It is my goal to continue broadening my knowledge base and staying informed about the latest advancements in my field
 * I'm dedicated to producing top-notch work and getting great outcomes
 * I constantly search for fresh challenges and chances to expand my knowledge and skill set
 
-Skills: Angular | ReactJs | JavaScript | TypeScript | HTML5 | CSS |
+Skills: Angular | ReactJs | JavaScript | TypeScript | HTML5 | CSS | OOPs | RestAPI | Redux | Jest
 
 - 🌱 I’m currently learning ReactJs v18 
-- 👯 I’m looking to collaborate on Frontend applications that are extensively using Angular / JS / HTML / CSS 
+- 👯 I’m looking to collaborate on Frontend applications that are extensively using Angular / ReactJS / JS / HTML / CSS 
 - 📫 How to reach me: sharmaaniket2411@gmail.com 
 
 
